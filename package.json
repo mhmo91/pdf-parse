@@ -32,19 +32,15 @@
 		"test": "node node_modules/mocha/bin/_mocha --recursive --slow 10000",
 		"start": "node index.js"
 	},
-	"homepage": "https://gitlab.com/autokent/pdf-parse",
+	"homepage": "https://github.com/mhmo91/pdf-parse",
 	"bugs": {
-		"url": "https://gitlab.com/autokent/pdf-parse/issues",
+		"url": "https://github.com/mhmo91/pdf-parse/issues",
 		"email": "mehmet.kozan@live.com"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://gitlab.com/autokent/pdf-parse.git"
+		"url": "https://github.com/mhmo91/pdf-parse.git"
 	},
-	"publishConfig": {
-		"@mhmo91:registry": "https://npm.pkg.github.com"
-	},
-	"author": "Mehmet Kozan <mehmet.kozan@live.com>",
 	"license": "MIT",
 	"engines": {
 		"node": ">=6.8.1"
